@@ -3,4 +3,4 @@ Welcome to the SkunkOAI Devs for API.
 
 ## Documentations
 Our Documentations is added in Website to Read for Best Pratice.
-[SkunkOAI Devs](https://skunkplatform.netlify.app/ai/devs/)
+<a href="https://skunkplatform.netlify.app/ai/devs/" target="_blank">skunkplatform.netlify.app > ai > devs</a>
