@@ -1,6 +1,7 @@
-# SkunkOAI-API
-Welcome to the SkunkOAI Devs for API.
+# SkunkOAI API Documentation
 
-## Documentations
-Our Documentations is added in Website to Read for Best Pratice.
-<a href="https://skunkplatform.netlify.app/ai/devs/" target="_blank">skunkplatform.netlify.app > ai > devs</a>
+Welcome to the SkunkOAI Devs API documentation.
+
+## Documentation
+Our documentation is available on the website for best practices.  
+You can read it [here](https://skunkplatform.netlify.app/ai/devs/).
